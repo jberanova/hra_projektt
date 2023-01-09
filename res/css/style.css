@@ -1,0 +1,44 @@
+body{
+    background-image: url(/res/img/map2.2.png);
+    background-repeat: no-repeat;
+    background-size: 100em;
+}
+#tlacitk01{
+    height: 70px;
+    position: absolute;
+    left: 180px;
+    top: 170px;
+}
+#tlacitk02{
+    height: 70px;
+    position: absolute;
+    left: 1100px;
+    top: 210px;
+}
+#tlacitk03{
+    height: 70px;
+    position: absolute;
+    left: 670px;
+    top: 280px;
+}
+#tlacitk04{
+    height: 70px;
+    position: absolute;
+    left: 750px;
+    top: 490px;
+}
+#tlacitk05{
+    height: 70px;
+    position: absolute;
+    left: 200px;
+    top: 490px;
+}
+#truhla{
+    position: absolute;
+    left: 1300px;
+    top: 510px;
+}
+#home{
+    height: 100px;
+   
+}
